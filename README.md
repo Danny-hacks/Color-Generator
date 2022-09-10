@@ -3,7 +3,7 @@ Search for any color using either the name of the color, the hex code or rgb for
 It displays different shades of the searched color with their respective hex codes. 
 
 
-[Live Preview]()
+[Live Preview](https://colour-finder.netlify.app/)
 
 
 
